@@ -1,0 +1,89 @@
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe.config
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csprojResolveAssemblyReference.cache
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form1.resources
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmclc.resources
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Properties.Resources.resources
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csproj.GenerateResource.Cache
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.pdb
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.exe
+c:\users\moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.pdb
+C:\Users\Moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form4.resources
+C:\Users\Moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmsqr.resources
+C:\Users\Moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmgcd.resources
+C:\Users\Moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmtime.resources
+C:\Users\Moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form7.resources
+C:\Users\Moein\documents\visual studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form8.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe.config
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.exe
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.pdb
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form1.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmclc.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmsqr.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form4.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmgcd.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmtime.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form7.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form8.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe
+F:\Visual Studio 2013\Projects\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.pdb
+R:\Files\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe.config
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.exe
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.pdb
+R:\Files\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe
+R:\Files\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.pdb
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csprojResolveAssemblyReference.cache
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form1.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmclc.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmsqr.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form4.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmgcd.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmtime.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form7.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form8.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Properties.Resources.resources
+R:\Files\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csproj.GenerateResource.Cache
+D:\MRG\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe.config
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.exe
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.pdb
+D:\MRG\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe
+D:\MRG\CalculatorVersion5\CalculatorVersion5\bin\Debug\CalculatorVersion5.pdb
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csprojResolveAssemblyReference.cache
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form1.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmclc.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmsqr.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form4.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmgcd.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmtime.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form7.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form8.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Properties.Resources.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.csproj.GenerateResource.Cache
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form9.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.crn.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.dinum.resources
+D:\MRG\CalculatorVersion5\CalculatorVersion5\obj\Debug\CalculatorVersion5.primefrm.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe.config
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.exe
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.pdb
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.crn.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.dinum.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.primefrm.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmclc.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmsqr.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form4.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmgcd.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.frmtime.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form7.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form8.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.Form9.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.n_factoriel.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.csproj.GenerateResource.Cache
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\bin\Debug\CalculatorVersion5.exe
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\bin\Debug\CalculatorVersion5.pdb
+C:\Users\Windows 10\Desktop\CalculatorVersion5 - Copy\CalculatorVersion5\obj\Debug\CalculatorVersion5.num_counter.resources
